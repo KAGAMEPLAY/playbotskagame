@@ -152,7 +152,7 @@ async def on_raw_reaction_remove(payload):
  
 # RUN
 token = os.evniron.get('BOT_TOKEN')
-Bot.run(str(token))
+bot.run(str(token))
 
 
 
