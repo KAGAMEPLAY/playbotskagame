@@ -151,7 +151,7 @@ async def on_raw_reaction_remove(payload):
  
 # RUN
 #Bot = MyClient()
-Bot.run("NzQ2ODAyNTQ2NjMwMTk3MjQ4.X0FoEg.jqO0ovYqukD3r8Tmi25SI8dKENk")
+Bot.run(config.TOKEN)
 
 
 
