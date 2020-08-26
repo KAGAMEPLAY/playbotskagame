@@ -5,6 +5,7 @@ from discord.ext.commands import Bot
 from discord import Activity, ActivityType
 from discord import Guild
 import config
+import os
 
 Bot = commands.Bot(command_prefix="-")
 
